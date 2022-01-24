@@ -10,7 +10,7 @@
 		"servicima-back-hr-equipment"
 	],
 	"engines": {
-		"node": "10.x"
+		"node": "14.x"
 	},
 	"author": "WIDIGITAL <contact@widigital-group.com>",
 	"license": "UNLICENCED",
